@@ -1,0 +1,2 @@
+https://chris.beams.io/posts/git-commit/
+http://git-school.github.io/visualizing-git/
